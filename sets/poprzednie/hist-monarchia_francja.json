@@ -1,0 +1,204 @@
+[
+  {
+    "key": "hugenoci",
+    "question": "Kim byli hugenoci?",
+    "answer": "Francuscy protestanci kalwińscy"
+  },
+  {
+    "key": "wojny_religijne",
+    "question": "Między kim toczyły się wojny religijne we Francji w XVI w.?",
+    "answer": "Między katolikami a hugenotami"
+  },
+  {
+    "key": "edykt_nantejski",
+    "question": "Kiedy wydano edykt nantejski?",
+    "answer": "1598"
+  },
+  {
+    "key": "edykt_nantejski_znaczenie",
+    "question": "Co zakończył edykt nantejski?",
+    "answer": "Wojny religijne we Francji"
+  },
+  {
+    "key": "henryk_iv_ludwik_xiii",
+    "question": "Którzy królowie wzmacniali władzę królewską na początku XVII w.?",
+    "answer": "Henryk IV i Ludwik XIII"
+  },
+  {
+    "key": "richelieu",
+    "question": "Kto był pierwszym ministrem Ludwika XIII?",
+    "answer": "Kardynał Richelieu"
+  },
+  {
+    "key": "ludwik_xiv",
+    "question": "Który król wprowadził we Francji pełny absolutyzm?",
+    "answer": "Ludwik XIV"
+  },
+  {
+    "key": "panstwo_to_ja",
+    "question": "Który władca mówił „państwo to ja”?",
+    "answer": "Ludwik XIV"
+  },
+  {
+    "key": "krol_slonce",
+    "question": "Jak nazywano Ludwika XIV?",
+    "answer": "Król Słońce"
+  },
+  {
+    "key": "wersal",
+    "question": "Po co Ludwik XIV stworzył dwór w Wersalu?",
+    "answer": "Aby kontrolować arystokrację i urzędników („złota klatka”)"
+  },
+  {
+    "key": "colbert",
+    "question": "Kto odpowiadał za rozwój gospodarki za Ludwika XIV?",
+    "answer": "Minister Colbert"
+  },
+  {
+    "key": "potega_francji",
+    "question": "Co wzmacniało potęgę Francji za Ludwika XIV?",
+    "answer": "Rozwój przemysłu, floty, handlu, wysokie cła, duża armia"
+  },
+  {
+    "key": "uniewaznienie_edyktu",
+    "question": "Kiedy unieważniono edykt nantejski?",
+    "answer": "1685"
+  },
+  {
+    "key": "skutek_uniewaznienia",
+    "question": "Jaki był skutek unieważnienia edyktu nantejskiego?",
+    "answer": "Utrata wielu rzemieślników hugenotów"
+  },
+  {
+    "key": "kryzys_ludwik_xiv",
+    "question": "Co doprowadziło do kryzysu gospodarczego pod koniec rządów Ludwika XIV?",
+    "answer": "Nadmierne wydatki na armię i dwór"
+  },
+  {
+    "key": "hugenoci",
+    "question": "Kim byli hugenoci?",
+    "answer": "Francuscy protestanci kalwińscy"
+  },
+  {
+    "key": "wojny_religijne",
+    "question": "Między kim toczyły się wojny religijne we Francji w XVI w.?",
+    "answer": "Między katolikami a hugenotami"
+  },
+  {
+    "key": "dlaczego_wojny_religijne",
+    "question": "Dlaczego we Francji wybuchły wojny religijne w XVI wieku?",
+    "answer": "Z powodu konfliktu między katolikami a rosnącą liczbą hugenotów"
+  },
+  {
+    "key": "skutki_wojen_religijnych",
+    "question": "Jakie były skutki wojen religijnych we Francji?",
+    "answer": "Wyniszczenie kraju, chaos polityczny i potrzeba kompromisu"
+  },
+
+  {
+    "key": "edykt_nantejski",
+    "question": "Kiedy wydano edykt nantejski?",
+    "answer": "1598"
+  },
+  {
+    "key": "znaczenie_edyktu",
+    "question": "Jakie znaczenie miał edykt nantejski?",
+    "answer": "Zakończył wojny religijne i gwarantował hugenotom tolerancję"
+  },
+  {
+    "key": "dlaczego_edykt_wydano",
+    "question": "Dlaczego Henryk IV wydał edykt nantejski?",
+    "answer": "Aby zakończyć wyniszczające wojny religijne i uspokoić kraj"
+  },
+
+  {
+    "key": "henryk_iv_ludwik_xiii",
+    "question": "Którzy królowie wzmacniali władzę królewską na początku XVII w.?",
+    "answer": "Henryk IV i Ludwik XIII"
+  },
+  {
+    "key": "richelieu",
+    "question": "Kto był pierwszym ministrem Ludwika XIII?",
+    "answer": "Kardynał Richelieu"
+  },
+  {
+    "key": "dlaczego_richelieu_wazny",
+    "question": "Dlaczego Richelieu odegrał kluczową rolę w umacnianiu absolutyzmu?",
+    "answer": "Ograniczył wpływy arystokracji i wzmocnił administrację królewską"
+  },
+
+  {
+    "key": "ludwik_xiv",
+    "question": "Który król wprowadził we Francji pełny absolutyzm?",
+    "answer": "Ludwik XIV"
+  },
+  {
+    "key": "panstwo_to_ja",
+    "question": "Który władca mówił „państwo to ja”?",
+    "answer": "Ludwik XIV"
+  },
+  {
+    "key": "dlaczego_ludwik_xiv_absolutyzm",
+    "question": "Dlaczego Ludwik XIV mógł wprowadzić pełny absolutyzm?",
+    "answer": "Miał silną administrację, stałą armię i kontrolował arystokrację"
+  },
+  {
+    "key": "skutki_absolutyzmu_ludwika",
+    "question": "Jakie były skutki absolutyzmu Ludwika XIV?",
+    "answer": "Wzmocnienie państwa, ale też ogromne wydatki i kryzys gospodarczy"
+  },
+
+  {
+    "key": "wersal",
+    "question": "Po co Ludwik XIV stworzył dwór w Wersalu?",
+    "answer": "Aby kontrolować arystokrację i urzędników („złota klatka”)"
+  },
+  {
+    "key": "znaczenie_wersalu",
+    "question": "Jakie znaczenie miał Wersal dla władzy królewskiej?",
+    "answer": "Centralizował władzę i uzależniał arystokrację od króla"
+  },
+
+  {
+    "key": "colbert",
+    "question": "Kto odpowiadał za rozwój gospodarki za Ludwika XIV?",
+    "answer": "Minister Colbert"
+  },
+  {
+    "key": "reformy_colberta",
+    "question": "Jakie reformy gospodarcze wprowadził Colbert?",
+    "answer": "Rozwój manufaktur, floty, przemysłu, wysokie cła, pobudzenie handlu"
+  },
+  {
+    "key": "dlaczego_francja_silna",
+    "question": "Dlaczego Francja stała się potęgą za Ludwika XIV?",
+    "answer": "Dzięki reformom gospodarczym, silnej armii i centralizacji władzy"
+  },
+
+  {
+    "key": "uniewaznienie_edyktu",
+    "question": "Kiedy unieważniono edykt nantejski?",
+    "answer": "1685"
+  },
+  {
+    "key": "skutki_uniewaznienia",
+    "question": "Jakie były skutki unieważnienia edyktu nantejskiego?",
+    "answer": "Ucieczka hugenotów i utrata wielu rzemieślników"
+  },
+  {
+    "key": "dlaczego_uniewazniono_edykt",
+    "question": "Dlaczego Ludwik XIV unieważnił edykt nantejski?",
+    "answer": "Chciał pełnej jedności religijnej i wzmocnienia absolutyzmu"
+  },
+
+  {
+    "key": "kryzys_ludwik_xiv",
+    "question": "Co doprowadziło do kryzysu gospodarczego pod koniec rządów Ludwika XIV?",
+    "answer": "Nadmierne wydatki na armię, wojny i dwór królewski"
+  },
+  {
+    "key": "skutki_kryzysu",
+    "question": "Jakie były skutki kryzysu gospodarczego po rządach Ludwika XIV?",
+    "answer": "Obciążenie finansowe państwa i problemy dla jego następców"
+  }
+]

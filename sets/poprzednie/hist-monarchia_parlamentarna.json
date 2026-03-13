@@ -1,0 +1,185 @@
+[
+
+  {
+    "key": "absolutyzm_def",
+    "question": "Co to jest absolutyzm (tradycyjny)?",
+    "answer": "Ustrój, w którym król ma pełnię władzy i nie podlega kontroli parlamentu ani sądów"
+  },
+  {
+    "key": "absolutyzm_oswiecony_def",
+    "question": "Co to jest absolutyzm oświecony?",
+    "answer": "Ustrój, w którym władca zachowuje pełnię władzy, ale wprowadza reformy inspirowane ideami oświecenia."
+  },
+  {
+    "key": "absolutyzm_oswiecony_odw",
+    "question": "Jak nazywa się ustrój, w którym władca ma pełnię władzy, ale wprowadza reformy oświeceniowe?",
+    "answer": "Absolutyzm oświecony"
+  },
+  {
+    "key": "dlaczego_absolutyzm_oswiecony_powstal",
+    "question": "Dlaczego powstał absolutyzm oświecony?",
+    "answer": "Władcy chcieli modernizować państwo, zachowując jednocześnie pełnię władzy."
+  },
+  {
+    "key": "karol_i",
+    "question": "Kto panował w Anglii od 1625 r. i dążył do absolutyzmu?",
+    "answer": "Karol I Stuart"
+  },
+  {
+    "key": "nowa_szlachta",
+    "question": "Dlaczego nowa szlachta sprzeciwiała się absolutyzmowi?",
+    "answer": "Czerpała zyski z handlu i przemysłu, chciała udziału w rządach"
+  },
+  {
+    "key": "purytanizm_def",
+    "question": "Co to jest purytanizm?",
+    "answer": "Surowy odłam kalwinizmu w Anglii, którego wyznawcy dążyli do uproszczenia i oczyszczenia Kościoła"
+  },
+  {
+    "key": "purytanizm_odw",
+    "question": "Jak nazywał się surowy odłam kalwinizmu w Anglii?",
+    "answer": "Purytanizm"
+  },
+  {
+    "key": "dlaczego_purytanie_konflikt",
+    "question": "Dlaczego purytanie byli w konflikcie z anglikanami?",
+    "answer": "Bo sprzeciwiali się bogatym obrzędom i chcieli bardziej surowego, prostego Kościoła"
+  },
+  {
+    "key": "wojna_domowa",
+    "question": "Kiedy wybuchła wojna domowa w Anglii?",
+    "answer": "1642"
+  },
+  {
+    "key": "naseby",
+    "question": "Gdzie w 1645 r. król poniósł decydującą porażkę?",
+    "answer": "Pod Naseby"
+  },
+  {
+    "key": "cromwell",
+    "question": "Kto stanął na czele parlamentu podczas wojny domowej?",
+    "answer": "Oliver Cromwell"
+  },
+  {
+    "key": "sciecie_karola",
+    "question": "Kiedy ścięto Karola I Stuarta?",
+    "answer": "1649"
+  },
+  {
+    "key": "republika",
+    "question": "Jaką formę rządów przyjęła Anglia po ścięciu króla?",
+    "answer": "Republika"
+  },
+  {
+    "key": "cromwell_podboje",
+    "question": "Jakie kraje podbił Cromwell?",
+    "answer": "Irlandię i Szkocję"
+  },
+  {
+    "key": "lord_protektor",
+    "question": "Jaką funkcję objął Cromwell w 1653 r.?",
+    "answer": "Lord protektor"
+  },
+  {
+    "key": "smierc_cromwella",
+    "question": "Kiedy zmarł Cromwell?",
+    "answer": "1658"
+  },
+  {
+    "key": "restauracja",
+    "question": "Kto przywrócił monarchię po śmierci Cromwella?",
+    "answer": "Parlament (Karol II, potem Jakub II)"
+  },
+  {
+    "key": "detronizacja_jakuba",
+    "question": "Kiedy parlament detronizował Jakuba II?",
+    "answer": "1688"
+  },
+  {
+    "key": "wilhelm_iii",
+    "question": "Kto został wybrany na króla po Jakubie II?",
+    "answer": "Wilhelm III Orański"
+  },
+  {
+    "key": "monarchia_parlamentarna",
+    "question": "Kiedy powstała monarchia parlamentarna w Anglii?",
+    "answer": "1689"
+  },
+  {
+    "key": "podzial_wladzy",
+    "question": "Jak wyglądał podział władzy w monarchii parlamentarnej?",
+    "answer": "Parlament – ustawodawcza, rząd – wykonawcza, król – reprezentacyjna"
+  },
+ {
+    "key": "porownanie_stara_nowa_szlachta",
+    "question": "Czym różniła się stara szlachta od nowej szlachty w Anglii?",
+    "answer": "Stara szlachta wspierała króla, a nowa szlachta handel i parlament"
+  },
+  {
+    "key": "dlaczego_parlament_silniejszy",
+    "question": "Dlaczego parlament zyskiwał na znaczeniu w XVII‑wiecznej Anglii?",
+    "answer": "Bo reprezentował interesy rosnącej grupy kupców i nowej szlachty"
+  },
+  {
+    "key": "skutki_purytanizmu",
+    "question": "Jakie były skutki silnej pozycji purytanów w Anglii?",
+    "answer": "Wzmocnienie parlamentu i poparcie dla walki z absolutyzmem"
+  },
+  {
+    "key": "dlaczego_cromwell_podbil",
+    "question": "Dlaczego Cromwell podbił Irlandię i Szkocję?",
+    "answer": "Aby zdławić opór wobec republiki i umocnić władzę centralną"
+  },
+  {
+    "key": "skutki_podbojow_cromwella",
+    "question": "Jakie były skutki podbojów Cromwella?",
+    "answer": "Wzmocnienie Anglii, ale też brutalne represje i wrogość Irlandczyków"
+  },
+  {
+    "key": "dlaczego_wilhelm_iii",
+    "question": "Dlaczego parlament wybrał Wilhelma III Orańskiego na króla?",
+    "answer": "Bo gwarantował poszanowanie praw parlamentu i protestantyzm"
+  },
+  {
+    "key": "porownanie_absolutyzm_anglia_francja",
+    "question": "Czym różniła się Anglia od Francji w kwestii absolutyzmu?",
+    "answer": "We Francji absolutyzm zwyciężył, w Anglii został ograniczony przez parlament"
+  },
+{
+    "key": "porownanie_stara_nowa_szlachta",
+    "question": "Czym różniła się stara szlachta od nowej szlachty w Anglii?",
+    "answer": "Stara szlachta wspierała króla, a nowa szlachta handel i parlament"
+  },
+  {
+    "key": "dlaczego_parlament_silniejszy",
+    "question": "Dlaczego parlament zyskiwał na znaczeniu w XVII‑wiecznej Anglii?",
+    "answer": "Bo reprezentował interesy rosnącej grupy kupców i nowej szlachty"
+  },
+  {
+    "key": "skutki_purytanizmu",
+    "question": "Jakie były skutki silnej pozycji purytanów w Anglii?",
+    "answer": "Wzmocnienie parlamentu i poparcie dla walki z absolutyzmem"
+  },
+  {
+    "key": "dlaczego_cromwell_podbil",
+    "question": "Dlaczego Cromwell podbił Irlandię i Szkocję?",
+    "answer": "Aby zdławić opór wobec republiki i umocnić władzę centralną"
+  },
+  {
+    "key": "skutki_podbojow_cromwella",
+    "question": "Jakie były skutki podbojów Cromwella?",
+    "answer": "Wzmocnienie Anglii, ale też brutalne represje i wrogość Irlandczyków"
+  },
+  {
+    "key": "dlaczego_wilhelm_iii",
+    "question": "Dlaczego parlament wybrał Wilhelma III Orańskiego na króla?",
+    "answer": "Bo gwarantował poszanowanie praw parlamentu i protestantyzm"
+  },
+  {
+    "key": "porownanie_absolutyzm_anglia_francja",
+    "question": "Czym różniła się Anglia od Francji w kwestii absolutyzmu?",
+    "answer": "We Francji absolutyzm zwyciężył, w Anglii został ograniczony przez parlament"
+  }
+]
+
+

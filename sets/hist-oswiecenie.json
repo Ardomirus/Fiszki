@@ -1,0 +1,173 @@
+[
+  {
+    "key": "idee_oswiecenia",
+    "question": "Gdzie narodziły się idee oświecenia?",
+    "answer": "We Francji w XVIII wieku"
+  },
+  {
+    "key": "pochwala_rozumu",
+    "question": "Jakie wartości głosili myśliciele oświecenia?",
+    "answer": "Pochwałę rozumu, wiedzy i doświadczenia"
+  },
+  {
+    "key": "krytyka_oswiecenia",
+    "question": "Co krytykowali filozofowie oświecenia?",
+    "answer": "Kościół katolicki, władzę absolutną i przywileje szlachty oraz duchowieństwa"
+  },
+  {
+    "key": "wiek_swiatla",
+    "question": "Jak nazywano epokę oświecenia?",
+    "answer": "Wiek światła / wiek rozumu"
+  },
+  {
+    "key": "nauki_oswiecenie",
+    "question": "Jakie nauki rozwijały się w epoce oświecenia?",
+    "answer": "Matematyka, astronomia, fizyka, chemia, biologia"
+  },
+  {
+    "key": "wynalazki_oswiecenia",
+    "question": "Jakie wynalazki powstały w epoce oświecenia?",
+    "answer": "Termometr, maszyna parowa, balon"
+  },
+  {
+    "key": "encyklopedia",
+    "question": "Kto stworzył Wielką Encyklopedię Francuską?",
+    "answer": "Denis Diderot"
+  },
+  {
+    "key": "ateizm",
+    "question": "Co oznacza ateizm?",
+    "answer": "Pogląd, że Bóg nie istnieje"
+  },
+  {
+    "key": "wolter",
+    "question": "Z czego słynął Wolter?",
+    "answer": "Z krytyki Kościoła"
+  },
+  {
+    "key": "monteskiusz",
+    "question": "Co głosił Monteskiusz?",
+    "answer": "Trójpodział władzy: ustawodawcza, wykonawcza, sądownicza"
+  },
+  {
+    "key": "rousseau",
+    "question": "Co głosił Jan Jakub Rousseau?",
+    "answer": "Umowę społeczną, równość i wolność ludzi"
+  },
+  {
+    "key": "klasycyzm",
+    "question": "Jaki styl dominował w sztuce oświecenia?",
+    "answer": "Klasycyzm"
+  },
+  {
+    "key": "klasycyzm_cechy",
+    "question": "Jakie są cechy klasycyzmu?",
+    "answer": "Wzorowanie się na antyku, ład i harmonia, proporcje, umiar w zdobieniach, tematyka mitologiczna"
+  },
+  {
+    "key": "dlaczego_oswiecenie_powstalo",
+    "question": "Dlaczego idee oświecenia narodziły się we Francji?",
+    "answer": "Z powodu rozwoju nauki, krytyki absolutyzmu i rosnącej roli mieszczaństwa"
+  },
+  {
+    "key": "skutki_oswiecenia_europa",
+    "question": "Jakie były skutki rozprzestrzenienia się idei oświecenia w Europie?",
+    "answer": "Wzrost znaczenia nauki, krytyka absolutyzmu, rozwój reform i zmiany społeczne"
+  },
+  {
+    "key": "dlaczego_krytyka_kosciola",
+    "question": "Dlaczego filozofowie oświecenia krytykowali Kościół?",
+    "answer": "Uważali, że ogranicza wolność myślenia i wspiera absolutyzm"
+  },
+  {
+    "key": "znaczenie_encyklopedii",
+    "question": "Jakie znaczenie miała Wielka Encyklopedia Francuska?",
+    "answer": "Upowszechniała wiedzę, promowała rozum i podważała tradycyjne autorytety"
+  },
+  {
+    "key": "dlaczego_encyklopedia_powstala",
+    "question": "Dlaczego powstała Wielka Encyklopedia Francuska?",
+    "answer": "Aby zebrać i udostępnić całą współczesną wiedzę w duchu oświecenia"
+  },
+  {
+    "key": "skutki_encyklopedii",
+    "question": "Jakie były skutki publikacji Encyklopedii?",
+    "answer": "Wzrost świadomości społecznej i rozwój krytycznego myślenia"
+  },
+  {
+    "key": "dlaczego_ateizm_popularny",
+    "question": "Dlaczego ateizm i deizm stały się popularne w epoce oświecenia?",
+    "answer": "Bo filozofowie odrzucali dogmaty religijne i szukali racjonalnych wyjaśnień świata"
+  },
+  {
+    "key": "znaczenie_monteskiusza",
+    "question": "Dlaczego Monteskiusz jest ważną postacią oświecenia?",
+    "answer": "Bo stworzył koncepcję trójpodziału władzy, fundament współczesnych demokracji"
+  },
+  {
+    "key": "dlaczego_rousseau_wplywowy",
+    "question": "Dlaczego Rousseau wywarł tak duży wpływ na myśl polityczną?",
+    "answer": "Bo głosił ideę umowy społecznej i równości ludzi"
+  },
+  {
+    "key": "skutki_idei_rousseau",
+    "question": "Jakie były skutki idei Rousseau?",
+    "answer": "Wpłynęły na rewolucję francuską i rozwój nowoczesnych koncepcji wolności"
+  },
+  {
+    "key": "dlaczego_klasycyzm_powstal",
+    "question": "Dlaczego w epoce oświecenia rozwinął się klasycyzm?",
+    "answer": "Bo ceniono harmonię, proporcje i wzorce antyczne zgodne z ideałami rozumu"
+  },
+  {
+    "key": "skutki_klasycyzmu",
+    "question": "Jakie były skutki rozwoju klasycyzmu?",
+    "answer": "Powstanie sztuki uporządkowanej, harmonijnej i opartej na antyku"
+  },
+  {
+    "key": "dlaczego_nauka_rosla",
+    "question": "Dlaczego w epoce oświecenia tak szybko rozwijały się nauki ścisłe?",
+    "answer": "Bo zaczęto opierać wiedzę na doświadczeniu, eksperymencie i obserwacji"
+  },
+  {
+    "key": "skutki_rozwoju_nauki",
+    "question": "Jakie były skutki rozwoju nauki w XVIII wieku?",
+    "answer": "Nowe wynalazki, rozwój przemysłu i zmiany społeczne"
+  },
+  {
+    "key": "dlaczego_wynalazki_wazne",
+    "question": "Dlaczego wynalazki takie jak maszyna parowa były przełomowe?",
+    "answer": "Bo zapoczątkowały rewolucję przemysłową i zmieniły gospodarkę"
+  },
+  {
+    "key": "porownanie_filozofow",
+    "question": "Czym różniły się poglądy Woltera, Monteskiusza i Rousseau?",
+    "answer": "Wolter krytykował Kościół, Monteskiusz tworzył teorię władzy, a Rousseau głosił wolność i umowę społeczną"
+  },
+  {
+    "key": "dlaczego_oswiecenie_rewolucja",
+    "question": "Dlaczego idee oświecenia przyczyniły się do rewolucji francuskiej?",
+    "answer": "Bo podważały absolutyzm, przywileje i autorytet Kościoła"
+  },
+  {
+    "key": "skutki_oswiecenia_dlugofalowe",
+    "question": "Jakie były długofalowe skutki oświecenia dla Europy?",
+    "answer": "Rozwój demokracji, nauki, szkolnictwa i nowoczesnych państw"
+  },
+  {
+    "key": "dlaczego_rozum_centralny",
+    "question": "Dlaczego rozum stał się centralną wartością oświecenia?",
+    "answer": "Bo uznano go za narzędzie poznania świata i walki z przesądami"
+  },
+  {
+    "key": "skutki_krytyki_kosciola",
+    "question": "Jakie były skutki krytyki Kościoła przez filozofów oświecenia?",
+    "answer": "Osłabienie autorytetu religii i wzrost świeckiego myślenia"
+  },
+  {
+    "key": "dlaczego_klasycyzm_antyk",
+    "question": "Dlaczego klasycyzm tak silnie nawiązywał do antyku?",
+    "answer": "Bo antyk symbolizował harmonię, proporcje i racjonalność"
+  }
+]
+

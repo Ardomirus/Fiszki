@@ -1,0 +1,33 @@
+[
+{"key":"karol_i","question":"Który król Anglii dążył do absolutyzmu?","answer":"Karol I Stuart","level":1},
+{"key":"wojna_domowa","question":"Kiedy wybuchła wojna domowa w Anglii?","answer":"1642","level":1},
+{"key":"cromwell","question":"Kto dowodził wojskami parlamentu?","answer":"Oliver Cromwell","level":1},
+{"key":"naseby","question":"Gdzie król poniósł decydującą porażkę w 1645?","answer":"Pod Naseby","level":1},
+{"key":"sciecie_karola","question":"Kiedy ścięto Karola I?","answer":"1649","level":1},
+{"key":"republika","question":"Jaki ustrój wprowadzono po śmierci króla?","answer":"Republikę","level":1},
+{"key":"lord_protektor","question":"Jaką funkcję objął Cromwell?","answer":"Lord protektor","level":1},
+{"key":"smierc_cromwella","question":"Kiedy zmarł Cromwell?","answer":"1658","level":1},
+{"key":"restauracja","question":"Co przywrócono po śmierci Cromwella?","answer":"Monarchię","level":1},
+{"key":"jakub_ii","question":"Który król został obalony w 1688 roku?","answer":"Jakub II","level":1},
+
+{"key":"wilhelm_iii","question":"Kto został królem po Jakubie II?","answer":"Wilhelm III Orański","level":1},
+{"key":"monarchia_parlamentarna","question":"Kiedy powstała monarchia parlamentarna w Anglii?","answer":"1689","level":1},
+{"key":"parlament","question":"Która instytucja zyskała największą władzę w Anglii?","answer":"Parlament","level":1},
+
+{"key":"purytanizm","question":"Kim byli purytanie?","answer":"Surowy odłam protestantów w Anglii","level":1},
+{"key":"nowa_szlachta","question":"Czym zajmowała się nowa szlachta w Anglii?","answer":"Handlem i gospodarką","level":1},
+
+{"key":"konflikt_krol_parlament","question":"Dlaczego wybuchł konflikt króla z parlamentem?","answer":"Król chciał rządzić samodzielnie","level":2},
+{"key":"wojna_domowa_powod","question":"Dlaczego wybuchła wojna domowa w Anglii?","answer":"Spór o władzę króla","level":2},
+{"key":"detronizacja","question":"Dlaczego obalono Jakuba II?","answer":"Obawiano się absolutyzmu","level":2},
+
+{"key":"podzial_wladzy","question":"Jak dzieli się władza w monarchii parlamentarnej?","answer":"Parlament, rząd, król","level":2},
+{"key":"rola_krola","question":"Jaką rolę miał król w monarchii parlamentarnej?","answer":"Głównie reprezentacyjną","level":2},
+
+{"key":"znaczenie_rewolucji","question":"Jakie znaczenie miała rewolucja w Anglii?","answer":"Ograniczyła władzę króla","level":3},
+{"key":"anglia_francja","question":"Czym różniła się Anglia od Francji w XVII w.?","answer":"Anglia miała silny parlament","level":3},
+
+{"key":"armia_parlamentu","question":"Kto wygrał wojnę domową?","answer":"Wojska parlamentu","level":1},
+{"key":"republika_okres","question":"Jak nazywał się okres rządów Cromwella?","answer":"Republika","level":1},
+{"key":"glorious_revolution","question":"Jak nazywa się wydarzenie z 1688 roku?","answer":"Chwalebna rewolucja","level":1}
+]

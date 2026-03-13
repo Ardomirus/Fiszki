@@ -1,0 +1,31 @@
+[
+{"key":"hugenoci","question":"Kim byli hugenoci?","answer":"Francuscy protestanci kalwińscy","level":1},
+{"key":"wojny_religijne","question":"Między kim toczyły się wojny religijne we Francji?","answer":"Między katolikami a hugenotami","level":1},
+{"key":"edykt_nantejski","question":"Kiedy wydano edykt nantejski?","answer":"1598","level":1},
+{"key":"henryk_iv","question":"Który król zakończył wojny religijne we Francji?","answer":"Henryk IV","level":1},
+{"key":"ludwik_xiii","question":"Który król panował przed Ludwikiem XIV?","answer":"Ludwik XIII","level":1},
+{"key":"richelieu","question":"Kto był pierwszym ministrem Ludwika XIII?","answer":"Kardynał Richelieu","level":1},
+{"key":"ludwik_xiv","question":"Który król wprowadził pełny absolutyzm we Francji?","answer":"Ludwik XIV","level":1},
+{"key":"krol_slonce","question":"Jak nazywano Ludwika XIV?","answer":"Król Słońce","level":1},
+{"key":"panstwo_to_ja","question":"Który władca miał powiedzieć „Państwo to ja”?","answer":"Ludwik XIV","level":1},
+{"key":"wersal","question":"Gdzie Ludwik XIV stworzył swój wielki dwór?","answer":"W Wersalu","level":1},
+
+{"key":"edykt_nantejski_znaczenie","question":"Co wprowadzał edykt nantejski?","answer":"Tolerancję dla hugenotów","level":2},
+{"key":"wersal_cel","question":"Dlaczego Ludwik XIV stworzył dwór w Wersalu?","answer":"Aby kontrolować arystokrację","level":2},
+{"key":"colbert","question":"Kto odpowiadał za rozwój gospodarki za Ludwika XIV?","answer":"Minister Colbert","level":2},
+{"key":"uniewaznienie_edyktu","question":"Kiedy unieważniono edykt nantejski?","answer":"1685","level":1},
+{"key":"skutek_uniewaznienia","question":"Jaki był skutek unieważnienia edyktu nantejskiego?","answer":"Ucieczka wielu hugenotów","level":2},
+
+{"key":"absolutyzm_def","question":"Co to jest absolutyzm?","answer":"Władza króla nieograniczona przez parlament","level":1},
+{"key":"armia_ludwika","question":"Na czym opierała się władza Ludwika XIV?","answer":"Na silnej armii i urzędnikach","level":2},
+{"key":"potega_francji","question":"Dlaczego Francja była potęgą za Ludwika XIV?","answer":"Silna armia i rozwój gospodarki","level":2},
+
+{"key":"skutki_absolutyzmu","question":"Jaki był skutek rządów Ludwika XIV dla państwa?","answer":"Silne państwo, ale duże wydatki","level":3},
+{"key":"kryzys_francji","question":"Dlaczego pod koniec rządów Ludwika XIV pojawił się kryzys?","answer":"Kosztowne wojny i dwór","level":3},
+
+{"key":"administracja","question":"Kto pomagał królowi rządzić państwem?","answer":"Urzędnicy królewscy","level":1},
+{"key":"dwor","question":"Czym był dwór królewski w Wersalu?","answer":"Centrum władzy króla","level":2},
+{"key":"arystokracja","question":"Dlaczego arystokracja mieszkała przy dworze?","answer":"Była zależna od króla","level":2},
+{"key":"religia_francja","question":"Jaka religia dominowała we Francji?","answer":"Katolicyzm","level":1},
+{"key":"koniec_wojen","question":"Co zakończyło wojny religijne we Francji?","answer":"Edykt nantejski","level":2}
+]

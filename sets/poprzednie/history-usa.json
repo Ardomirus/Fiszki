@@ -1,0 +1,203 @@
+[
+  {
+    "key": "13_kolonii",
+    "question": "Ile angielskich kolonii istniało w Ameryce Północnej w poł. XVIII w.?",
+    "answer": "13 kolonii"
+  },
+  {
+    "key": "13_kolonii_odw",
+    "question": "Co znajdowało się w Ameryce Północnej w połowie XVIII wieku?",
+    "answer": "13 angielskich kolonii"
+  },
+
+  {
+    "key": "boston_tea_party",
+    "question": "Jakie wydarzenie z 1773 r. stało się symbolem konfliktu kolonii z Brytyjczykami?",
+    "answer": "Bostońska herbatka"
+  },
+  {
+    "key": "boston_tea_party_odw",
+    "question": "Kiedy miała miejsce Bostońska herbatka?",
+    "answer": "1773"
+  },
+
+  {
+    "key": "wojna_niepodleglosc",
+    "question": "W jakich latach trwała wojna o niepodległość USA?",
+    "answer": "1775–1783"
+  },
+  {
+    "key": "wojna_niepodleglosc_odw",
+    "question": "Co wydarzyło się w latach 1775–1783?",
+    "answer": "Wojna o niepodległość USA"
+  },
+
+  {
+    "key": "deklaracja_1776",
+    "question": "Kiedy ogłoszono Deklarację Niepodległości USA?",
+    "answer": "4 lipca 1776"
+  },
+  {
+    "key": "deklaracja_1776_odw",
+    "question": "Co wydarzyło się 4 lipca 1776?",
+    "answer": "Ogłoszenie Deklaracji Niepodległości USA"
+  },
+
+  {
+    "key": "saratoga",
+    "question": "Jaka bitwa z 1777 r. była przełomem w wojnie o niepodległość USA?",
+    "answer": "Bitwa pod Saratogą"
+  },
+  {
+    "key": "saratoga_odw",
+    "question": "Kiedy miała miejsce bitwa pod Saratogą?",
+    "answer": "1777"
+  },
+
+  {
+    "key": "yorktown",
+    "question": "Gdzie w 1781 r. wojska Jerzego Waszyngtona odniosły decydujące zwycięstwo?",
+    "answer": "Pod Yorktown"
+  },
+  {
+    "key": "yorktown_odw",
+    "question": "Co wydarzyło się w 1781 pod Yorktown?",
+    "answer": "Decydujące zwycięstwo wojsk amerykańskich"
+  },
+
+  {
+    "key": "pulaski_kosciuszko",
+    "question": "Którzy Polacy walczyli po stronie Amerykanów w wojnie o niepodległość?",
+    "answer": "Kazimierz Pułaski i Tadeusz Kościuszko"
+  },
+  {
+    "key": "pulaski_kosciuszko_odw",
+    "question": "Kim byli Kazimierz Pułaski i Tadeusz Kościuszko w historii USA?",
+    "answer": "Polskimi bohaterami walczącymi o niepodległość USA"
+  },
+
+  {
+    "key": "konstytucja_usa",
+    "question": "Kiedy uchwalono pierwszą na świecie konstytucję USA?",
+    "answer": "1787"
+  },
+  {
+    "key": "konstytucja_usa_odw",
+    "question": "Co wydarzyło się w 1787 w USA?",
+    "answer": "Uchwalenie pierwszej konstytucji USA"
+  },
+
+  {
+    "key": "trojpodzial",
+    "question": "Jakie trzy władze wprowadza Konstytucja USA?",
+    "answer": "Ustawodawcza (Kongres), wykonawcza (Prezydent), sądownicza (sądy)"
+  },
+  {
+    "key": "trojpodzial_odw",
+    "question": "Kto sprawuje władzę ustawodawczą, wykonawczą i sądowniczą w USA?",
+    "answer": "Kongres, Prezydent i sądy"
+  },
+
+  {
+    "key": "kongres",
+    "question": "Kto sprawuje władzę ustawodawczą w USA?",
+    "answer": "Kongres"
+  },
+  {
+    "key": "kongres_odw",
+    "question": "Jaką władzę sprawuje Kongres w USA?",
+    "answer": "Ustawodawczą"
+  },
+
+  {
+    "key": "prezydent",
+    "question": "Kto sprawuje władzę wykonawczą w USA?",
+    "answer": "Prezydent"
+  },
+  {
+    "key": "prezydent_odw",
+    "question": "Jaką władzę sprawuje prezydent USA?",
+    "answer": "Wykonawczą"
+  },
+
+  {
+    "key": "sady",
+    "question": "Kto sprawuje władzę sądowniczą w USA?",
+    "answer": "Sądy"
+  },
+  {
+    "key": "sady_odw",
+    "question": "Jaką władzę sprawują sądy w USA?",
+    "answer": "Sądowniczą"
+  },
+    {
+    "key": "dlaczego_konflikt_brytania",
+    "question": "Dlaczego doszło do konfliktu między koloniami a Wielką Brytanią?",
+    "answer": "Z powodu wyzysku kolonii, podatków i ograniczeń handlowych narzucanych przez Brytyjczyków"
+  },
+  {
+    "key": "skutki_boston_tea_party",
+    "question": "Jakie były skutki Bostońskiej herbatki?",
+    "answer": "Zaostrzenie konfliktu z Wielką Brytanią i początek represji wobec kolonii"
+  },
+  {
+    "key": "dlaczego_wojna_usa",
+    "question": "Dlaczego wybuchła wojna o niepodległość USA?",
+    "answer": "Kolonie chciały samodzielności, sprzeciwiały się podatkom i ingerencji Londynu"
+  },
+  {
+    "key": "znaczenie_saratoga",
+    "question": "Jakie znaczenie miała bitwa pod Saratogą?",
+    "answer": "Była przełomem wojny i skłoniła Francję do wsparcia USA"
+  },
+  {
+    "key": "dlaczego_yorktown",
+    "question": "Dlaczego zwycięstwo pod Yorktown było tak ważne?",
+    "answer": "Przesądziło o klęsce Brytyjczyków i zakończeniu wojny"
+  },
+  {
+    "key": "rola_polakow",
+    "question": "Dlaczego udział Pułaskiego i Kościuszki był istotny?",
+    "answer": "Wnieśli kluczowy wkład wojskowy: Kościuszko w fortyfikacjach, Pułaski w kawalerii"
+  },
+  {
+    "key": "dlaczego_konstytucja",
+    "question": "Dlaczego uchwalenie konstytucji USA było przełomowe?",
+    "answer": "Była to pierwsza nowoczesna konstytucja, wprowadzająca trójpodział władzy"
+  },
+  {
+    "key": "skutki_konstytucji",
+    "question": "Jakie były skutki uchwalenia konstytucji USA?",
+    "answer": "Utworzenie stabilnego państwa, jasny podział kompetencji, ograniczenie władzy"
+  },
+  {
+    "key": "dlaczego_trojpodzial",
+    "question": "Dlaczego wprowadzono trójpodział władzy?",
+    "answer": "Aby zapobiec nadużyciom i zapewnić równowagę między organami państwa"
+  },
+  {
+    "key": "skutki_trojpodzialu",
+    "question": "Jakie skutki miał trójpodział władzy w USA?",
+    "answer": "Stworzył system kontroli i równowagi, który działa do dziś"
+  },
+  {
+    "key": "dlaczego_francja_pomogla",
+    "question": "Dlaczego Francja wsparła USA w wojnie o niepodległość?",
+    "answer": "Chciała osłabić Wielką Brytanię, swojego rywala"
+  },
+  {
+    "key": "skutki_wojny",
+    "question": "Jakie były skutki wojny o niepodległość USA?",
+    "answer": "Powstanie nowego państwa, osłabienie Brytanii, wzrost znaczenia idei wolności"
+  },
+  {
+    "key": "dlaczego_usa_powstaly",
+    "question": "Dlaczego kolonie amerykańskie były gotowe stworzyć własne państwo?",
+    "answer": "Miały rozwiniętą gospodarkę, poczucie odrębności i doświadczenie samorządności"
+  },
+  {
+    "key": "znaczenie_deklaracji",
+    "question": "Jakie znaczenie miała Deklaracja Niepodległości?",
+    "answer": "Uzasadniała prawo do buntu i stała się symbolem wolności na świecie"
+  }
+]
