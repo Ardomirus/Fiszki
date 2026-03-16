@@ -84,6 +84,12 @@
 	    align-items: center;
 	}
 
+	.grade-buttons button {
+	    min-height: 60px;
+	    padding: 10px;
+	    white-space: normal; /* pozwala zawijać, ale wysokość jest stała */
+	}
+
 	.grade-count {
 	    text-align: center;
 	    font-size: 1.6rem;
@@ -112,9 +118,7 @@
 	.counter-flash {
 	    animation: counterPop 0.25s ease, counterFlash 0.4s ease;
 	}
-	select option {
-	    height: 40px;
-	}
+
 
 
     </style>
@@ -173,7 +177,7 @@
     </div>
 
     <div>
-        <button id="btn2" onclick="gradeWithCounter('good')">Wiem</button>
+        <button id="btn2" onclick="gradeWithCounter('good')">Wiem     </button>
         <div id="count2" class="grade-count">0</div>
     </div>
 
