@@ -1,0 +1,163 @@
+[
+  {
+    "key": "bog_kim_jest",
+    "question": "Kto to jest Pan Bóg?",
+    "answer": "Pan Bóg jest to duch nieskończenie doskonały, Stworzyciel nieba i ziemi."
+  },
+  {
+    "key": "ile_osob_boskich",
+    "question": "Ile jest Osób Boskich?",
+    "answer": "Są trzy Osoby Boskie: Bóg Ojciec, Syn Boży i Duch Święty."
+  },
+  {
+    "key": "trojca_swieta",
+    "question": "Jak nazywamy jednego Boga w trzech Osobach?",
+    "answer": "Jednego Boga w trzech Osobach nazywamy Trójcą Przenajświętszą."
+  },
+  {
+    "key": "kto_stworzyl_swiat",
+    "question": "Kto stworzył świat?",
+    "answer": "Pan Bóg stworzył świat: niebo i ziemię."
+  },
+  {
+    "key": "co_znaczy_stworzyc",
+    "question": "Co to znaczy stworzyć?",
+    "answer": "Stworzyć znaczy uczynić coś z niczego."
+  },
+  {
+    "key": "po_co_stworzyl_swiat",
+    "question": "Po co Pan Bóg stworzył świat?",
+    "answer": "Pan Bóg stworzył świat dla swojej chwały i dla dobra stworzeń."
+  },
+  {
+    "key": "kim_sa_aniolowie",
+    "question": "Kto to są aniołowie?",
+    "answer": "Aniołowie są to duchy czyste, które mają rozum i wolną wolę, ale nie mają ciała."
+  },
+  {
+    "key": "czy_aniolowie_wierni",
+    "question": "Czy wszyscy aniołowie zostali wierni Panu Bogu?",
+    "answer": "Nie wszyscy aniołowie zostali wierni Panu Bogu. Niektórzy zbuntowali się i zostali strąceni do piekła."
+  },
+  {
+    "key": "kim_jest_czlowiek",
+    "question": "Kto to jest człowiek?",
+    "answer": "Człowiek został stworzony przez Boga i jest do Boga podobny, bo ma rozum, wolną wolę i duszę nieśmiertelną."
+  },
+  {
+    "key": "po_co_stworzyl_czlowieka",
+    "question": "Po co Pan Bóg stworzył człowieka?",
+    "answer": "Aby Boga znał, czcił, kochał i służył Mu oraz osiągnął szczęście wieczne."
+  },
+  {
+    "key": "grzech_pierworodny",
+    "question": "Jak nazywamy grzech pierwszych rodziców?",
+    "answer": "Grzech ten nazywa się grzechem pierworodnym i przechodzi na wszystkich ludzi."
+  },
+  {
+    "key": "skutki_grzechu_pierworodnego",
+    "question": "Co utracili ludzie przez grzech pierworodny?",
+    "answer": "Utracili łaskę uświęcającą i prawo do nieba; rozum został zaciemniony, a wola skłonna do zła."
+  },
+  {
+    "key": "kogo_bog_zeslal",
+    "question": "Kogo Pan Bóg zesłał na ziemię dla zbawienia ludzi?",
+    "answer": "Swego Syna, Jezusa Chrystusa."
+  },
+  {
+    "key": "kim_jest_jezus",
+    "question": "Kim jest Jezus Chrystus?",
+    "answer": "Jezus Chrystus jest Synem Bożym, który stał się człowiekiem dla naszego zbawienia."
+  },
+  {
+    "key": "jak_jezus_zbawil",
+    "question": "W jaki sposób Pan Jezus nas zbawił?",
+    "answer": "Przez swoją mękę, śmierć i zmartwychwstanie."
+  },
+  {
+    "key": "kto_bez_grzechu_pierworodnego",
+    "question": "Kto był wolny od grzechu pierworodnego?",
+    "answer": "Najświętsza Maryja Panna."
+  },
+  {
+    "key": "co_to_chrzest",
+    "question": "Co to jest chrzest?",
+    "answer": "To pierwszy i najpotrzebniejszy sakrament, który gładzi grzech pierworodny i daje życie nadprzyrodzone."
+  },
+  {
+    "key": "co_to_grzech",
+    "question": "Co to jest grzech?",
+    "answer": "Grzech to odwrócenie się od Boga, czyli świadome i dobrowolne przekroczenie przykazań."
+  },
+  {
+    "key": "grzech_ciezki",
+    "question": "Co to jest grzech ciężki, czyli śmiertelny?",
+    "answer": "To zupełnie świadome i dobrowolne przekroczenie przykazań w rzeczy ważnej."
+  },
+  {
+    "key": "grzech_lekki",
+    "question": "Co to jest grzech lekki, czyli powszedni?",
+    "answer": "To przekroczenie przykazań w małej rzeczy lub w ważnej, ale nie całkiem świadomie i dobrowolnie."
+  },
+  {
+    "key": "co_to_spowiedz",
+    "question": "Co to jest spowiedź?",
+    "answer": "To wyznanie przed kapłanem wszystkich grzechów dla otrzymania rozgrzeszenia."
+  },
+  {
+    "key": "co_to_laska_boza",
+    "question": "Co to jest łaska Boża?",
+    "answer": "To dar nadprzyrodzony, którego Pan Bóg udziela nam w drodze do zbawienia."
+  },
+  {
+    "key": "laska_uczynkowa",
+    "question": "Co to jest łaska uczynkowa?",
+    "answer": "To pomoc Boża do spełniania dobrych uczynków potrzebnych do zbawienia."
+  },
+  {
+    "key": "laska_uswiecajaca",
+    "question": "Co to jest łaska uświęcająca?",
+    "answer": "To dar Boży, który daje nam życie nadprzyrodzone i czyni nas dziećmi Bożymi."
+  },
+  {
+    "key": "co_to_msza",
+    "question": "Co to jest Msza Święta?",
+    "answer": "To ofiara Nowego Testamentu, w której Jezus pod postaciami chleba i wina ofiaruje się Ojcu za nas."
+  },
+  {
+    "key": "czesci_mszy",
+    "question": "Jak dzieli się Msza Święta?",
+    "answer": "Na Liturgię Słowa Bożego i Liturgię Ofiary."
+  },
+  {
+    "key": "przeistoczenie",
+    "question": "Co to jest Przeistoczenie?",
+    "answer": "Przeistoczenie jest to rzeczywista przemiana chleba i wina w Ciało i Krew Pana Jezusa."
+  },
+  {
+    "key": "komunia_swieta",
+    "question": "Co to jest Komunia Święta?",
+    "answer": "Komunia Święta jest to spożywanie Ciała i Krwi Pana Jezusa pod postaciami chleba i wina."
+  },
+  {
+    "key": "przygotowanie_duszy_do_komunii",
+    "question": "Kiedy nasza dusza jest przygotowana na godne przyjęcie Komunii Świętej?",
+    "answer": "Nasza dusza jest przygotowana na godne przyjęcie Komunii Świętej, kiedy znajduje się w stanie łaski uświęcającej, czyli bez grzechu ciężkiego."
+  },
+  {
+    "key": "przygotowanie_ciala_do_komunii",
+    "question": "Jak przygotowujemy nasze ciało do przyjęcia Komunii Świętej?",
+    "answer": "Ciało przygotowujemy do przyjęcia Komunii Świętej w ten sposób, że jedną godzinę przed Komunią Świętą powstrzymujemy się od przyjmowania pokarmów i napojów."
+  },
+  {
+    "key": "najswiestszy_sakrament",
+    "question": "Co to jest Najświętszy Sakrament?",
+    "answer": "Najświętszy Sakrament jest to prawdziwe Ciało i prawdziwa Krew Pana Jezusa pod postaciami chleba i wina."
+  },
+  {
+    "key": "rzeczy_ostateczne",
+    "question": "Jakie są rzeczy ostateczne człowieka?",
+    "answer": "Rzeczy ostateczne człowieka są następujące: śmierć, Sąd Boży, niebo lub piekło."
+  }
+
+]
