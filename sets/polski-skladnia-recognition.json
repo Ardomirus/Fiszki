@@ -70,5 +70,60 @@
     "answer": "Podrzędne przyczynowe",
     "hint": "‘ponieważ’",
     "explanation": "Wyjaśnia przyczynę"
+  },
+  {
+    "key": "r9",
+    "type": "recognition",
+    "level": 2,
+    "question": "Jaki to typ zdania?\n\n'Było tak zimno, że wszyscy wrócili do domu'",
+    "answer": "Zdanie podrzędne wynikowe",
+    "hint": "Zwróć uwagę na 'że'",
+    "explanation": "Druga część wyraża skutek sytuacji z pierwszej"
+  },
+  {
+    "key": "r10",
+    "type": "recognition",
+    "level": 2,
+    "question": "Czy to zdanie jest współrzędne czy podrzędne?\n\n'Pójdę na spacer, jeśli przestanie padać'",
+    "answer": "Zdanie złożone podrzędnie",
+    "hint": "Czy jedna część zależy od drugiej?",
+    "explanation": "Zdanie z 'jeśli' określa warunek — jest podrzędne"
+  },
+  {
+    "key": "r11",
+    "type": "recognition",
+    "level": 3,
+    "question": "Czy tu powinien być przecinek?\n\n'Chciałem wyjść ale zaczęło padać'",
+    "answer": "Tak",
+    "hint": "Spójnik przeciwstawny",
+    "explanation": "Przed 'ale' zawsze stawiamy przecinek"
+  },
+  {
+    "key": "r12",
+    "type": "recognition",
+    "level": 3,
+    "question": "Jaki to typ zdania okolicznikowego?\n\n'Poczekam, aż wrócisz'",
+    "answer": "Okolicznikowe czasu",
+    "hint": "Zadaj pytanie: kiedy?",
+    "explanation": "Zdanie podrzędne określa moment wykonania czynności"
+  },
+  {
+    "key": "r13",
+    "type": "recognition",
+    "level": 3,
+    "question": "Jaki to typ zdania okolicznikowego?\n\n'Zrobiłem to, żeby ci pomóc'",
+    "answer": "Okolicznikowe celu",
+    "hint": "Zadaj pytanie: po co?",
+    "explanation": "Zdanie podrzędne wyraża cel czynności"
+  },
+  {
+    "key": "r14",
+    "type": "recognition",
+    "level": 3,
+    "question": "Czy to zdanie jest współrzędne?\n\n'Było późno, więc wróciliśmy do domu'",
+    "answer": "Tak — to zdanie współrzędne wynikowe",
+    "hint": "Spójnik 'więc'",
+    "explanation": "Zdania połączone spójnikiem wynikowym są współrzędne"
   }
+
 ]
