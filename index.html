@@ -228,9 +228,10 @@ function toggleCard() {
 
     if (ans.style.display === "none") {
 
-        // 🔴 chowamy hint przy przejściu do odpowiedzi
+        // 🔴 ZAMKNIJ HINT (jeśli był otwarty)
         hint.style.display = "none";
 
+        // pokaż odpowiedź
         ans.style.display = "block";
 
         if (current.explanation) {
