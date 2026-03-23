@@ -1,0 +1,47 @@
+[
+  {
+    "key": "a1",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie na części:\n\n'Pada deszcz i wieje wiatr'",
+    "answer": "Zdanie złożone współrzędnie:\n- Pada deszcz\n- wieje wiatr",
+    "hint": "Znajdź dwa orzeczenia",
+    "explanation": "Dwa zdania połączone spójnikiem ‘i’"
+  },
+  {
+    "key": "a2",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie:\n\n'Kiedy pada deszcz, zostaję w domu'",
+    "answer": "Zdanie podrzędne:\n- Kiedy pada deszcz\nZdanie nadrzędne:\n- zostaję w domu",
+    "hint": "Która część może istnieć sama?",
+    "explanation": "Nadrzędne jest samodzielne"
+  },
+  {
+    "key": "a3",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel i nazwij:\n\n'Byłem zmęczony, więc poszedłem spać'",
+    "answer": "Zdanie współrzędne wynikowe:\n- Byłem zmęczony\n- więc poszedłem spać",
+    "hint": "‘więc’",
+    "explanation": "Drugie zdanie wynika z pierwszego"
+  },
+  {
+    "key": "a4",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel zdanie:\n\n'Chciałem iść na spacer, ale zaczęło padać'",
+    "answer": "Zdanie współrzędne przeciwstawne:\n- Chciałem iść na spacer\n- ale zaczęło padać",
+    "hint": "‘ale’",
+    "explanation": "Kontrast między częściami"
+  },
+  {
+    "key": "a5",
+    "type": "analysis",
+    "level": 3,
+    "question": "Ile zdań i jakie?\n\n'Kiedy wróciłem do domu, zjadłem obiad i odpocząłem'",
+    "answer": "3 zdania:\n- podrzędne: Kiedy wróciłem do domu\n- współrzędne: zjadłem obiad / odpocząłem",
+    "hint": "Policz orzeczenia",
+    "explanation": "wróciłem / zjadłem / odpocząłem"
+  }
+]
