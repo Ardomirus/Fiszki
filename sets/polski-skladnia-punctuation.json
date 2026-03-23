@@ -1,0 +1,38 @@
+[
+  {
+    "key": "p1",
+    "type": "punctuation",
+    "level": 2,
+    "question": "Wstaw przecinek:\n\n'Kiedy pada deszcz zostaję w domu'",
+    "answer": "Kiedy pada deszcz, zostaję w domu",
+    "hint": "Zdanie podrzędne",
+    "explanation": "Oddzielamy zdanie podrzędne przecinkiem"
+  },
+  {
+    "key": "p2",
+    "type": "punctuation",
+    "level": 2,
+    "question": "Wstaw przecinek:\n\n'Lubię lody i czekoladę'",
+    "answer": "Bez przecinka",
+    "hint": "Czy to dwa zdania?",
+    "explanation": "To jedno zdanie pojedyncze"
+  },
+  {
+    "key": "p3",
+    "type": "punctuation",
+    "level": 3,
+    "question": "Wstaw przecinki:\n\n'Jeśli zdążę pójdę na trening'",
+    "answer": "Jeśli zdążę, pójdę na trening",
+    "hint": "‘jeśli’",
+    "explanation": "Zdanie warunkowe oddzielamy przecinkiem"
+  },
+  {
+    "key": "p4",
+    "type": "punctuation",
+    "level": 3,
+    "question": "Wstaw przecinki:\n\n'Poszedłem do sklepu kupiłem chleb i wróciłem do domu'",
+    "answer": "Poszedłem do sklepu, kupiłem chleb i wróciłem do domu",
+    "hint": "Oddziel zdania",
+    "explanation": "Pierwsze zdanie oddzielamy przecinkiem"
+  }
+]
