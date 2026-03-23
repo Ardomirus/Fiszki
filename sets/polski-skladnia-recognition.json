@@ -1,0 +1,74 @@
+[
+  {
+    "key": "r1",
+    "type": "recognition",
+    "level": 1,
+    "question": "Ile orzeczeń ma zdanie:\n\n'Kot śpi na kanapie'?",
+    "answer": "1 – to zdanie pojedyncze",
+    "hint": "Znajdź czasownik",
+    "explanation": "‘śpi’ to jedyne orzeczenie"
+  },
+  {
+    "key": "r2",
+    "type": "recognition",
+    "level": 1,
+    "question": "Czy to jest zdanie czy równoważnik?\n\n'Piękny zachód słońca'",
+    "answer": "Równoważnik zdania – brak orzeczenia",
+    "hint": "Czy jest czasownik?",
+    "explanation": "Brak orzeczenia oznacza równoważnik"
+  },
+  {
+    "key": "r3",
+    "type": "recognition",
+    "level": 1,
+    "question": "Czy to zdanie jest rozwinięte?\n\n'Ptak leci'",
+    "answer": "Nierozwinięte",
+    "hint": "Czy są dodatkowe określenia?",
+    "explanation": "Brak przydawek, okoliczników"
+  },
+  {
+    "key": "r4",
+    "type": "recognition",
+    "level": 1,
+    "question": "Czy to zdanie jest rozwinięte?\n\n'Mały ptak leci wysoko'",
+    "answer": "Rozwinięte",
+    "hint": "Czy są dodatkowe informacje?",
+    "explanation": "‘mały’, ‘wysoko’ to rozwinięcia"
+  },
+  {
+    "key": "r5",
+    "type": "recognition",
+    "level": 2,
+    "question": "Jaki to typ zdania współrzędnego?\n\n'Uczę się i słucham muzyki'",
+    "answer": "Łączne",
+    "hint": "Spójnik ‘i’",
+    "explanation": "Łączy czynności bez sprzeczności"
+  },
+  {
+    "key": "r6",
+    "type": "recognition",
+    "level": 2,
+    "question": "Jaki to typ zdania?\n\n'Nie poszedłem do szkoły, bo byłem chory'",
+    "answer": "Zdanie złożone podrzędnie – przyczynowe",
+    "hint": "Szukaj ‘bo’",
+    "explanation": "Jedno zdanie wyjaśnia przyczynę"
+  },
+  {
+    "key": "r7",
+    "type": "recognition",
+    "level": 2,
+    "question": "Ile zdań składowych?\n\n'Zjadłem obiad i poszedłem na spacer'",
+    "answer": "2",
+    "hint": "Policz orzeczenia",
+    "explanation": "zjadłem / poszedłem"
+  },
+  {
+    "key": "r8",
+    "type": "recognition",
+    "level": 3,
+    "question": "Jaki to typ?\n\n'Zostanę w domu, ponieważ pada deszcz'",
+    "answer": "Podrzędne przyczynowe",
+    "hint": "‘ponieważ’",
+    "explanation": "Wyjaśnia przyczynę"
+  }
+]
