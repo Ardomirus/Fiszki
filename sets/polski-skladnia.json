@@ -1,0 +1,182 @@
+[
+  {
+    "key": "s1",
+    "type": "theory",
+    "level": 1,
+    "question": "Co to jest zdanie pojedyncze?",
+    "answer": "Zdanie zawierające jedno orzeczenie",
+    "hint": "Policz orzeczenia",
+    "explanation": "Jedno orzeczenie = jedno zdanie pojedyncze"
+  },
+  {
+    "key": "s2",
+    "type": "recognition",
+    "level": 1,
+    "question": "Ile orzeczeń ma zdanie:\n\n'Kot śpi na kanapie'?",
+    "answer": "1 – to zdanie pojedyncze",
+    "hint": "Znajdź czasownik",
+    "explanation": "‘śpi’ to jedyne orzeczenie"
+  },
+  {
+    "key": "s3",
+    "type": "recognition",
+    "level": 1,
+    "question": "Czy to jest zdanie czy równoważnik?\n\n'Piękny zachód słońca'",
+    "answer": "Równoważnik zdania – brak orzeczenia",
+    "hint": "Czy jest czasownik?",
+    "explanation": "Brak orzeczenia oznacza równoważnik"
+  },
+  {
+    "key": "s4",
+    "type": "theory",
+    "level": 1,
+    "question": "Co to jest równoważnik zdania?",
+    "answer": "Wypowiedzenie bez orzeczenia",
+    "hint": "",
+    "explanation": "Nie zawiera czasownika w formie osobowej"
+  },
+  {
+    "key": "s5",
+    "type": "recognition",
+    "level": 1,
+    "question": "Czy to zdanie jest rozwinięte?\n\n'Ptak leci'",
+    "answer": "Nierozwinięte",
+    "hint": "Czy są dodatkowe określenia?",
+    "explanation": "Brak przydawek, okoliczników"
+  },
+  {
+    "key": "s6",
+    "type": "recognition",
+    "level": 1,
+    "question": "Czy to zdanie jest rozwinięte?\n\n'Mały ptak leci wysoko'",
+    "answer": "Rozwinięte",
+    "hint": "Czy są dodatkowe informacje?",
+    "explanation": "‘mały’, ‘wysoko’ to rozwinięcia"
+  },
+  {
+    "key": "s7",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie na części:\n\n'Pada deszcz i wieje wiatr'",
+    "answer": "Zdanie złożone współrzędnie:\n- Pada deszcz\n- wieje wiatr",
+    "hint": "Znajdź dwa orzeczenia",
+    "explanation": "Dwa zdania połączone spójnikiem ‘i’"
+  },
+  {
+    "key": "s8",
+    "type": "theory",
+    "level": 2,
+    "question": "Jakie są typy zdań współrzędnych?",
+    "answer": "Łączne, rozłączne, przeciwstawne, wynikowe",
+    "hint": "",
+    "explanation": "Podział według relacji znaczeniowej"
+  },
+  {
+    "key": "s9",
+    "type": "recognition",
+    "level": 2,
+    "question": "Jaki to typ zdania współrzędnego?\n\n'Uczę się i słucham muzyki'",
+    "answer": "Łączne",
+    "hint": "Spójnik ‘i’",
+    "explanation": "Łączy czynności bez sprzeczności"
+  },
+  {
+    "key": "s10",
+    "type": "recognition",
+    "level": 2,
+    "question": "Jaki to typ zdania?\n\n'Nie poszedłem do szkoły, bo byłem chory'",
+    "answer": "Zdanie złożone podrzędnie – przyczynowe",
+    "hint": "Szukaj ‘bo’",
+    "explanation": "Jedno zdanie wyjaśnia przyczynę"
+  },
+  {
+    "key": "s11",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie:\n\n'Kiedy pada deszcz, zostaję w domu'",
+    "answer": "Zdanie podrzędne:\n- Kiedy pada deszcz\nZdanie nadrzędne:\n- zostaję w domu",
+    "hint": "Która część może istnieć sama?",
+    "explanation": "Nadrzędne jest samodzielne"
+  },
+  {
+    "key": "s12",
+    "type": "punctuation",
+    "level": 2,
+    "question": "Wstaw przecinek:\n\n'Kiedy pada deszcz zostaję w domu'",
+    "answer": "Kiedy pada deszcz, zostaję w domu",
+    "hint": "Zdanie podrzędne",
+    "explanation": "Oddzielamy zdanie podrzędne przecinkiem"
+  },
+  {
+    "key": "s13",
+    "type": "punctuation",
+    "level": 2,
+    "question": "Wstaw przecinek:\n\n'Lubię lody i czekoladę'",
+    "answer": "Bez przecinka",
+    "hint": "Czy to dwa zdania?",
+    "explanation": "To jedno zdanie pojedyncze"
+  },
+  {
+    "key": "s14",
+    "type": "recognition",
+    "level": 2,
+    "question": "Ile zdań składowych?\n\n'Zjadłem obiad i poszedłem na spacer'",
+    "answer": "2",
+    "hint": "Policz orzeczenia",
+    "explanation": "zjadłem / poszedłem"
+  },
+  {
+    "key": "s15",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel i nazwij:\n\n'Byłem zmęczony, więc poszedłem spać'",
+    "answer": "Zdanie współrzędne wynikowe:\n- Byłem zmęczony\n- więc poszedłem spać",
+    "hint": "‘więc’",
+    "explanation": "Drugie zdanie wynika z pierwszego"
+  },
+  {
+    "key": "s16",
+    "type": "punctuation",
+    "level": 3,
+    "question": "Wstaw przecinki:\n\n'Jeśli zdążę pójdę na trening'",
+    "answer": "Jeśli zdążę, pójdę na trening",
+    "hint": "‘jeśli’",
+    "explanation": "Zdanie warunkowe oddzielamy przecinkiem"
+  },
+  {
+    "key": "s17",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel zdanie:\n\n'Chciałem iść na spacer, ale zaczęło padać'",
+    "answer": "Zdanie współrzędne przeciwstawne:\n- Chciałem iść na spacer\n- ale zaczęło padać",
+    "hint": "‘ale’",
+    "explanation": "Kontrast między częściami"
+  },
+  {
+    "key": "s18",
+    "type": "recognition",
+    "level": 3,
+    "question": "Jaki to typ?\n\n'Zostanę w domu, ponieważ pada deszcz'",
+    "answer": "Podrzędne przyczynowe",
+    "hint": "‘ponieważ’",
+    "explanation": "Wyjaśnia przyczynę"
+  },
+  {
+    "key": "s19",
+    "type": "punctuation",
+    "level": 3,
+    "question": "Wstaw przecinki:\n\n'Poszedłem do sklepu kupiłem chleb i wróciłem do domu'",
+    "answer": "Poszedłem do sklepu, kupiłem chleb i wróciłem do domu",
+    "hint": "Oddziel zdania",
+    "explanation": "Pierwsze zdanie oddzielamy przecinkiem"
+  },
+  {
+    "key": "s20",
+    "type": "analysis",
+    "level": 3,
+    "question": "Ile zdań i jakie?\n\n'Kiedy wróciłem do domu, zjadłem obiad i odpocząłem'",
+    "answer": "3 zdania:\n- podrzędne: Kiedy wróciłem do domu\n- współrzędne: zjadłem obiad / odpocząłem",
+    "hint": "Policz orzeczenia",
+    "explanation": "wróciłem / zjadłem / odpocząłem"
+  }
+]
