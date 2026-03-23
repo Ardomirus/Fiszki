@@ -208,7 +208,8 @@
     <div id="hintText" style="margin-bottom:15px;"></div>
     <button onclick="closeHint()">Zamknij</button>
 </div>
-<button onclick="showHint()">Podpowiedź</button>	
+<button onclick="showHint()">Podpowiedź</button>
+<div id="hint" style="display:none;"></div>
 <hr style="margin: 50px 0; border-color: #333;">
 
 <button class="reset-btn" onclick="resetProgress()">Resetuj postępy</button>
@@ -248,14 +249,15 @@ function toggleHint() {
     const hint = document.getElementById("hint");
     const ans = document.getElementById("answer");
 
-    // 🔴 jeśli odpowiedź już pokazana → nie pokazuj hinta
+    // nie pokazuj hinta jeśli odpowiedź już widoczna
     if (ans.style.display === "block") return;
 
-    if (hint.style.display === "none") {
+    // toggle ON/OFF
+    if (hint.style.display === "block") {
+        hint.style.display = "none";
+    } else {
         hint.textContent = current.hint;
         hint.style.display = "block";
-    } else {
-        hint.style.display = "none";
     }
 }
 	
