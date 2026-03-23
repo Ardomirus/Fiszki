@@ -385,17 +385,6 @@ function resetProgress() {
     }
 }
 
-function toggleCard() {
-    updateCounter();
-    const ans = document.getElementById("answer");
-
-    if (ans.style.display === "none") {
-        ans.style.display = "block";
-    } else {
-        nextCard();
-    }
-}
-
 function getProgress(key) {
     return localStorage.getItem(currentSet + "_progress_" + key) || "bad";
 }
