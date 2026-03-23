@@ -25,5 +25,169 @@
     "answer": "Łączne, rozłączne, przeciwstawne, wynikowe",
     "hint": "",
     "explanation": "Podział według relacji znaczeniowej"
+  },
+    {
+    "key": "t4",
+    "type": "theory",
+    "level": 1,
+    "question": "Czym różni się zdanie pojedyncze rozwinięte od nierozwiniętego?",
+    "answer": "Rozwinięte ma dodatkowe części zdania, nierozwinięte tylko podmiot i orzeczenie",
+    "hint": "Sprawdź, czy są określenia",
+    "explanation": "Zdanie rozwinięte zawiera przydawki, dopełnienia lub okoliczniki"
+  },
+  {
+    "key": "t5",
+    "type": "theory",
+    "level": 1,
+    "question": "Czy równoważnik zdania zawiera orzeczenie?",
+    "answer": "Nie",
+    "hint": "Pomyśl o czasowniku w formie osobowej",
+    "explanation": "Równoważnik nie ma orzeczenia, ale przekazuje pełną treść"
+  },
+  {
+    "key": "t6",
+    "type": "theory",
+    "level": 2,
+    "question": "Co to jest zdanie złożone?",
+    "answer": "Zdanie zawierające co najmniej dwa orzeczenia",
+    "hint": "Policz orzeczenia",
+    "explanation": "Każde orzeczenie tworzy jedną część zdania złożonego"
+  },
+  {
+    "key": "t7",
+    "type": "theory",
+    "level": 2,
+    "question": "Czym różni się zdanie współrzędne od podrzędnego?",
+    "answer": "Współrzędne ma równorzędne części, podrzędne ma część główną i zależną",
+    "hint": "Zastanów się, czy zdania mogą istnieć samodzielnie",
+    "explanation": "W zdaniu współrzędnym obie części są niezależne, w podrzędnym jedna zależy od drugiej"
+  },
+  {
+    "key": "t8",
+    "type": "theory",
+    "level": 2,
+    "question": "Jak rozpoznać zdanie podrzędne?",
+    "answer": "Odpowiada na pytanie zadane od zdania głównego",
+    "hint": "Zadaj pytanie od części nadrzędnej",
+    "explanation": "Zdanie podrzędne pełni funkcję części zdania w stosunku do zdania głównego"
+  },
+  {
+    "key": "t9",
+    "type": "theory",
+    "level": 2,
+    "question": "Jakie są podstawowe rodzaje zdań podrzędnych?",
+    "answer": "Podmiotowe, orzecznikowe, dopełnieniowe, okolicznikowe, przydawkowe",
+    "hint": "Pomyśl o pytaniach części zdania",
+    "explanation": "Podział zależy od funkcji, jaką pełni zdanie podrzędne"
+  },
+  {
+    "key": "t10",
+    "type": "theory",
+    "level": 3,
+    "question": "Co oznacza, że zdanie podrzędne jest okolicznikowe?",
+    "answer": "Odpowiada na pytania okoliczników, np. kiedy, gdzie, dlaczego",
+    "hint": "Pomyśl o okolicznościach czynności",
+    "explanation": "Zdanie podrzędne określa czas, miejsce, sposób, cel lub przyczynę"
+  },
+  {
+    "key": "t11",
+    "type": "theory",
+    "level": 3,
+    "question": "Kiedy stawiamy przecinek w zdaniu współrzędnym?",
+    "answer": "Przed większością spójników, np. ale, lecz, jednak, więc",
+    "hint": "Zwróć uwagę na spójnik",
+    "explanation": "Przecinka nie stawiamy zwykle przed i, oraz, a — chyba że zdania są rozbudowane"
+  },
+  {
+    "key": "t12",
+    "type": "theory",
+    "level": 3,
+    "question": "Czy w zdaniu podrzędnym zawsze stawiamy przecinek?",
+    "answer": "Tak",
+    "hint": "Pomyśl o relacji główne–podrzędne",
+    "explanation": "Zdanie podrzędne zawsze oddzielamy przecinkiem od zdania głównego"
+  },
+  {
+    "key": "t13",
+    "type": "theory",
+    "level": 3,
+    "question": "Co oznacza, że zdanie składowe jest równorzędne?",
+    "answer": "Może istnieć samodzielnie",
+    "hint": "Czy brzmi jak osobne zdanie?",
+    "explanation": "Zdania współrzędne nie zależą od siebie znaczeniowo"
+  },
+  {
+    "key": "t14",
+    "type": "theory",
+    "level": 3,
+    "question": "Jak znaleźć zdania składowe w zdaniu złożonym?",
+    "answer": "Trzeba odnaleźć wszystkie orzeczenia",
+    "hint": "Każde orzeczenie = jedna część",
+    "explanation": "Zdania składowe wyznaczamy na podstawie liczby orzeczeń"
+  },
+  {
+    "key": "t15",
+    "type": "theory",
+    "level": 3,
+    "question": "Co przedstawia wykres zdania złożonego?",
+    "answer": "Relację między zdaniami składowymi",
+    "hint": "Zastanów się, czy zdania są zależne",
+    "explanation": "Wykres pokazuje, czy zdania są współrzędne, czy podrzędne"
+  },
+  {
+    "key": "t16",
+    "type": "theory",
+    "level": 1,
+    "question": "Czym są zdania podrzędne okolicznikowe?",
+    "answer": "Zdania określające okoliczności czynności z zdania głównego",
+    "hint": "Pomyśl o pytaniach: kiedy? gdzie? dlaczego?",
+    "explanation": "Zdania okolicznikowe pełnią funkcję okolicznika: czasu, miejsca, sposobu, celu, przyczyny, warunku lub skutku"
+  },
+  {
+    "key": "t17",
+    "type": "theory",
+    "level": 2,
+    "question": "Na jakie pytania odpowiadają zdania okolicznikowe?",
+    "answer": "Na pytania okoliczników, np. kiedy, gdzie, jak, po co, dlaczego",
+    "hint": "To pytania o okoliczności",
+    "explanation": "Zdania okolicznikowe określają czas, miejsce, sposób, cel, przyczynę, warunek lub skutek"
+  },
+  {
+    "key": "t18",
+    "type": "theory",
+    "level": 2,
+    "question": "Czym jest zdanie podrzędne przyczynowe?",
+    "answer": "Zdanie wyjaśniające powód czynności z zdania głównego",
+    "hint": "Zadaj pytanie: dlaczego?",
+    "explanation": "Zdanie przyczynowe odpowiada na pytanie 'dlaczego?' i wprowadza je zwykle spójnik: bo, ponieważ, gdyż"
+  },
+  {
+    "key": "t19",
+    "type": "theory",
+    "level": 2,
+    "question": "Na jakie pytanie odpowiada zdanie przyczynowe?",
+    "answer": "Dlaczego?",
+    "hint": "Chodzi o powód",
+    "explanation": "Zdanie przyczynowe podaje przyczynę czynności lub stanu z części nadrzędnej"
+  },
+  {
+    "key": "t20",
+    "type": "theory",
+    "level": 3,
+    "question": "Czym jest zdanie podrzędne wynikowe?",
+    "answer": "Zdanie wyrażające skutek czynności z zdania głównego",
+    "hint": "Zadaj pytanie: co z tego wynika?",
+    "explanation": "Zdanie wynikowe odpowiada na pytania o skutek i często zaczyna się od: więc, toteż, dlatego że"
+  },
+  {
+    "key": "t21",
+    "type": "theory",
+    "level": 3,
+    "question": "Na jakie pytanie odpowiada zdanie wynikowe?",
+    "answer": "Co z tego wynika?",
+    "hint": "Pomyśl o skutku",
+    "explanation": "Zdanie wynikowe opisuje rezultat, konsekwencję lub efekt sytuacji przedstawionej w zdaniu głównym"
   }
+
+
 ]
