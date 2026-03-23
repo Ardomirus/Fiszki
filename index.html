@@ -219,6 +219,46 @@ let cards = [];
 let current = null;
 let currentSet = "verbs"; // domyślny zestaw
 
+function toggleCard() {
+    updateCounter();
+
+    const ans = document.getElementById("answer");
+    const exp = document.getElementById("explanation");
+    const hint = document.getElementById("hint");
+
+    if (ans.style.display === "none") {
+
+        // 🔴 chowamy hint przy przejściu do odpowiedzi
+        hint.style.display = "none";
+
+        ans.style.display = "block";
+
+        if (current.explanation) {
+            exp.style.display = "block";
+        }
+
+    } else {
+        nextCard();
+    }
+}
+function toggleHint() {
+
+    if (!current.hint) return;
+
+    const hint = document.getElementById("hint");
+    const ans = document.getElementById("answer");
+
+    // 🔴 jeśli odpowiedź już pokazana → nie pokazuj hinta
+    if (ans.style.display === "block") return;
+
+    if (hint.style.display === "none") {
+        hint.textContent = current.hint;
+        hint.style.display = "block";
+    } else {
+        hint.style.display = "none";
+    }
+}
+	
 function showHint() {
 
     if (!current.hint) return;
@@ -368,22 +408,6 @@ function resetProgress() {
     }
 }
 
-function toggleCard() {
-    updateCounter();
-    const ans = document.getElementById("answer");
-    const exp = document.getElementById("explanation");
-
-    if (ans.style.display === "none") {
-        ans.style.display = "block";
-
-        if (current.explanation) {
-            exp.style.display = "block";
-        }
-
-    } else {
-        nextCard();
-    }
-}
 
 function getProgress(key) {
     return localStorage.getItem(currentSet + "_progress_" + key) || "bad";
@@ -404,11 +428,15 @@ function nextCard() {
     updateCounter();
     const list = filteredCards();
 
-    if (list.length === 0) {
-        document.getElementById("question").textContent = "Brak fiszek w tej kategorii";
-        document.getElementById("answer").style.display = "none";
-        return;
-    }
+	if (list.length === 0) {
+	    document.getElementById("question").textContent = "Brak fiszek w tej kategorii";
+	    document.getElementById("answer").style.display = "none";
+	
+	    document.getElementById("hint").style.display = "none";
+	    document.getElementById("explanation").style.display = "none";
+	
+	    return;
+	}
 
     current = list[Math.floor(Math.random() * list.length)];
 
@@ -425,6 +453,7 @@ function nextCard() {
 	}
 	
 	exp.style.display = "none";
+	document.getElementById("hint").style.display = "none";
 	}
 
 function grade(level) {
