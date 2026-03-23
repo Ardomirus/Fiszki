@@ -220,6 +220,7 @@ let currentSet = "verbs"; // domyślny zestaw
 let hintModalOpen = false;
 
 function toggleCard() {
+	closeHint();
     updateCounter();
 
     const ans = document.getElementById("answer");
