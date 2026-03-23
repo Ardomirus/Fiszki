@@ -1,0 +1,29 @@
+[
+  {
+    "key": "t1",
+    "type": "theory",
+    "level": 1,
+    "question": "Co to jest zdanie pojedyncze?",
+    "answer": "Zdanie zawierające jedno orzeczenie",
+    "hint": "Policz orzeczenia",
+    "explanation": "Jedno orzeczenie = jedno zdanie pojedyncze"
+  },
+  {
+    "key": "t2",
+    "type": "theory",
+    "level": 1,
+    "question": "Co to jest równoważnik zdania?",
+    "answer": "Wypowiedzenie bez orzeczenia",
+    "hint": "",
+    "explanation": "Nie zawiera czasownika w formie osobowej"
+  },
+  {
+    "key": "t3",
+    "type": "theory",
+    "level": 2,
+    "question": "Jakie są typy zdań współrzędnych?",
+    "answer": "Łączne, rozłączne, przeciwstawne, wynikowe",
+    "hint": "",
+    "explanation": "Podział według relacji znaczeniowej"
+  }
+]
