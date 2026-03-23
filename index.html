@@ -1,10 +1,404 @@
-function showHint() {
-    const hintModal = document.getElementById('hintModal');
-    if (hintModal.style.display === 'block') {
-        hintModal.style.display = 'none';
-    } else {
-        hintModal.style.display = 'block';
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.6">
+
+    <title>Fiszki – MultiSet</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 30px;
+            background: #0d0d0d;
+            color: #e0e0e0;
+        }
+	#count0 { color: #ff6b6b; }   /* nie wiem – czerwony */
+	#count1 { color: #ffd166; }   /* trochę wiem – żółty */
+	#count2 { color: #6bff95; }   /* wiem – zielony */
+
+        #card {
+            background: #1e1e1e;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.7);
+            display: inline-block;
+            min-width: 280px;
+            border: 1px solid #333;
+        }
+
+        h2 {
+            color: #ffffff;
+            margin-bottom: 30px;
+        }
+
+        #question {
+            font-size: 32px;
+            font-weight: bold;
+            margin: 20px 0 30px;
+        }
+
+        #answer {
+            margin-top: 20px;
+            font-size: 24px;
+            color: #a0d0ff;
+            display: none;
+        }
+
+        button {
+            margin: 12px;
+            padding: 12px 28px;
+            font-size: 17px;
+            cursor: pointer;
+            border: none;
+            border-radius: 6px;
+            background: #2a2a2a;
+            color: #e0e0e0;
+        }
+
+        select {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #2a2a2a;
+            color: #e0e0e0;
+            border: 1px solid #444;
+            border-radius: 6px;
+            font-size: 16px;
+        }
+
+        .reset-btn {
+            margin-top: 60px;
+            background: #552222;
+            color: #ffdddd;
+        }
+	.grade-buttons {
+	    display: flex;
+	    gap: 20px;
+	    justify-content: center;
+	}
+
+	.grade-buttons > div {
+	    display: flex;
+	    flex-direction: column;
+	    align-items: center;
+	}
+
+	.grade-buttons button {
+	    width: 120px;      /* stała szerokość */
+	    min-height: 50px;  /* równa wysokość */
+	    padding: 10px;
+	    white-space: normal;
+	    text-align: center;
+	}
+
+
+	.grade-count {
+	    text-align: center;
+	    font-size: 1.6rem;
+	    margin-top: 8px;
+	    font-weight: 700;
+	    background: #2a2a2a;
+	    padding: 4px 12px;
+	    border-radius: 8px;
+	    min-width: 40px;
+	    transition: transform 0.2s ease;
+	}
+	@keyframes counterPop {
+	    0%   { transform: scale(1); }
+	    40%  { transform: scale(1.35); }
+	    100% { transform: scale(1); }
+	}
+
+	.counter-animate {
+	    animation: counterPop 0.25s ease;
+	}
+	@keyframes counterFlash {
+	    0%   { background: #444; }
+	    100% { background: #2a2a2a; }
+	}
+
+	.counter-flash {
+	    animation: counterPop 0.25s ease, counterFlash 0.4s ease;
+	}
+
+
+
+    </style>
+</head>
+
+<body>
+
+
+
+<!-- WYBÓR ZESTAWU -->
+<select id="setSelector" onchange="changeSet()">
+	<option value="verbs">Angielski – Verbs</option>
+	<option value="geogr-stolice_panstw_euro">Geografia – Stolice państw Europy</option>
+	<option value="hist-monarchia_parlamentarna">Historia – Monarchia Parlamentarna w Anglii</option>
+	<option value="hist-oswiecenie">Historia – Oświecenie</option>
+	<option value="history-usa">Historia – USA</option>
+	<option value="hist-monarchia_francja">Historia – Monarchia absolutna we Francji</option>
+	<option value="hist-nowe_potegi_europejskie">Historia – Nowe potęgi europejskie</option>
+	<option value="polski-skladnia-theory">Polski – Składnia – Definicje</option>
+	<option value="polski-skladnia-recognition">Polski – Składnia – Rozpoznawanie</option>
+	<option value="polski-skladnia-analysis">Polski – Składnia – Analiza</option>
+	<option value="polski-skladnia-punctuation">Polski – Składnia – Interpunkcja</option>
+	<option value="rel-pytania_komunijne">Religia – Pytania komunijne dla Maksia</option>
+
+   
+</select>
+
+<br><br>
+
+<!-- FILTR -->
+<select id="filter" onchange="nextCard()">    
+    <option value="bad">Nie wiem</option>
+    <option value="medium">Trochę wiem</option>
+    <option value="good">Wiem</option>
+    <option value="all">Wszystkie</option>
+</select>
+
+<div id="counter" style="margin: 10px; font-size: 18px; color: #a0d0ff;">
+    Fiszki: ...
+</div>
+
+<!-- KARTA -->
+<div id="card" onclick="toggleCard()">
+    <div id="question">Ładowanie...</div>
+    <div id="answer"></div>
+</div>
+
+<br>
+
+<!-- PRZYCISKI OCENY -->
+<div class="grade-buttons">
+
+    <div>
+        <button id="btn0" onclick="gradeWithCounter('bad')">Nie wiem</button>
+        <div id="count0" class="grade-count">0</div>
+    </div>
+
+    <div>
+        <button id="btn1" onclick="gradeWithCounter('medium')">Trochę wiem</button>
+        <div id="count1" class="grade-count">0</div>
+    </div>
+
+    <div>
+        <button id="btn2" onclick="gradeWithCounter('good')">Wiem     </button>
+        <div id="count2" class="grade-count">0</div>
+    </div>
+
+</div>
+
+<hr style="margin: 50px 0; border-color: #333;">
+
+<button class="reset-btn" onclick="resetProgress()">Resetuj postępy</button>
+
+
+<script>
+let cards = [];
+let current = null;
+let currentSet = "verbs"; // domyślny zestaw
+
+
+function animateCounter(id) {
+
+    const el = document.getElementById(id);
+
+    el.classList.remove("counter-animate");
+    el.classList.remove("counter-flash");
+
+    void el.offsetWidth;
+
+    el.classList.add("counter-animate");
+    el.classList.add("counter-flash");
+}
+function animateNumber(id, newValue) {
+
+    const el = document.getElementById(id);
+    const oldValue = parseInt(el.textContent);
+
+    const duration = 200;
+    const steps = 10;
+    const stepValue = (newValue - oldValue) / steps;
+
+    let current = oldValue;
+    let i = 0;
+
+    const timer = setInterval(() => {
+
+        current += stepValue;
+        el.textContent = Math.round(current);
+
+        i++;
+
+        if (i >= steps) {
+            el.textContent = newValue;
+            clearInterval(timer);
+        }
+
+    }, duration / steps);
+}
+function updateGradeCounters() {
+
+    const ids = ["count0","count1","count2"];
+
+    ids.forEach((id, i) => {
+
+        const el = document.getElementById(id);
+        const newValue = gradeCounts[i];
+        const oldValue = parseInt(el.textContent);
+
+        if (newValue !== oldValue) {
+
+            animateNumber(id, newValue);
+            animateCounter(id);
+
+        }
+
+    });
+}
+function recalcStatsFromProgress() {
+
+    let bad = 0;
+    let medium = 0;
+    let good = 0;
+
+    for (const card of cards) {
+
+        const p = getProgress(card.key);
+
+        if (p === "bad") bad++;
+        else if (p === "medium") medium++;
+        else if (p === "good") good++;
+    }
+
+    gradeCounts = [bad, medium, good];
+
+    updateGradeCounters();
+}
+function updateCounter() {
+    const list = filteredCards();
+    document.getElementById("counter").textContent = "Fiszki: " + list.length;
+}
+
+let gradeCounts = [0, 0, 0];
+
+function recalcUnknownCount() {
+    const total = cards.length;
+    const known = gradeCounts[1] + gradeCounts[2];
+    gradeCounts[0] = total - known;
+}
+
+function gradeWithCounter(level) {
+
+    setProgress(current.key, level);
+
+    recalcStatsFromProgress();
+
+    nextCard();
+}
+
+
+
+function changeSet() {
+    currentSet = document.getElementById("setSelector").value;
+
+    gradeCounts = [0, 0, 0];   // reset liczników kliknięć
+    updateGradeCounters();
+
+    loadCards().then(() => {
+        recalcUnknownCount();  // dopiero teraz, gdy cards są już wczytane
+        updateGradeCounters();
+    });
+}
+
+
+async function loadCards() {
+
+    const file = "sets/" + currentSet + ".json?v=" + Date.now();
+    const response = await fetch(file);
+    cards = await response.json();
+
+    recalcStatsFromProgress();
+
+    nextCard();
+}
+
+function resetProgress() {
+
+    if (confirm("Na pewno chcesz zresetować postępy dla tego zestawu?")) {
+
+        Object.keys(localStorage)
+            .filter(k => k.startsWith(currentSet + "_progress_"))
+            .forEach(k => localStorage.removeItem(k));
+
+        recalcStatsFromProgress();
+        nextCard();
     }
 }
 
-// Other code that remains unchanged...
+function toggleCard() {
+    updateCounter();
+    const ans = document.getElementById("answer");
+    const exp = document.getElementById("explanation");
+
+    if (ans.style.display === "none") {
+        ans.style.display = "block";
+
+        if (current.explanation) {
+            exp.style.display = "block";
+        }
+
+    } else {
+        nextCard();
+    }
+}
+
+function getProgress(key) {
+    return localStorage.getItem(currentSet + "_progress_" + key) || "bad";
+}
+
+function setProgress(key, status) {
+    localStorage.setItem(currentSet + "_progress_" + key, status);
+}
+
+function filteredCards() {
+    const filter = document.getElementById("filter").value;
+    if (filter === "all") return cards;
+
+    return cards.filter(c => getProgress(c.key) === filter);
+}
+
+function nextCard() {
+    updateCounter();
+    const list = filteredCards();
+
+    if (list.length === 0) {
+        document.getElementById("question").textContent = "Brak fiszek w tej kategorii";
+        document.getElementById("answer").style.display = "none";
+        return;
+    }
+
+    current = list[Math.floor(Math.random() * list.length)];
+
+    document.getElementById("question").textContent = current.question;
+    document.getElementById("answer").textContent = current.answer;
+    document.getElementById("answer").style.display = "none";
+}
+
+function grade(level) {
+    setProgress(current.key, level);
+    nextCard();
+}
+
+loadCards().then(() => {
+    recalcUnknownCount();
+    updateGradeCounters();
+    
+});
+</script>
+
+</body>
+</html>
