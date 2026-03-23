@@ -1,0 +1,65 @@
+[
+  {
+    "key": "a6",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie:\n\n'Zostałem w domu, bo padał deszcz'",
+    "answer": "Zdanie podrzędne przyczynowe:\n- nadrzędne: Zostałem w domu\n- podrzędne: bo padał deszcz",
+    "hint": "‘bo’",
+    "explanation": "Drugie zdanie wyjaśnia przyczynę"
+  },
+  {
+    "key": "a7",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie:\n\n'Pójdę na spacer albo zostanę w domu'",
+    "answer": "Zdanie współrzędne rozłączne:\n- Pójdę na spacer\n- albo zostanę w domu",
+    "hint": "‘albo’",
+    "explanation": "Alternatywa między czynnościami"
+  },
+  {
+    "key": "a8",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie:\n\n'Uczyłem się długo i zdałem egzamin'",
+    "answer": "Zdanie współrzędne łączne:\n- Uczyłem się długo\n- zdałem egzamin",
+    "hint": "‘i’",
+    "explanation": "Czynności są połączone"
+  },
+  {
+    "key": "a9",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel i nazwij:\n\n'Kiedy skończyłem zadanie, wyszedłem na dwór i spotkałem kolegę'",
+    "answer": "3 zdania:\n- podrzędne: Kiedy skończyłem zadanie\n- współrzędne: wyszedłem na dwór / spotkałem kolegę",
+    "hint": "Policz orzeczenia",
+    "explanation": "skończyłem / wyszedłem / spotkałem"
+  },
+  {
+    "key": "a10",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel zdanie:\n\n'Nie poszedłem na trening, ponieważ byłem chory i źle się czułem'",
+    "answer": "3 zdania:\n- nadrzędne: Nie poszedłem na trening\n- podrzędne: ponieważ byłem chory\n- współrzędne: źle się czułem",
+    "hint": "‘ponieważ’ + ‘i’",
+    "explanation": "Połączenie podrzędnego i współrzędnego"
+  },
+  {
+    "key": "a11",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel i nazwij:\n\n'Jeśli zdążę, odrobię lekcje i obejrzę film'",
+    "answer": "3 zdania:\n- podrzędne warunkowe: Jeśli zdążę\n- współrzędne: odrobię lekcje / obejrzę film",
+    "hint": "‘jeśli’",
+    "explanation": "Warunek + dwa działania"
+  },
+  {
+    "key": "a12",
+    "type": "analysis",
+    "level": 3,
+    "question": "Ile zdań?\n\n'Gdy pada deszcz, siedzę w domu, czytam książkę i słucham muzyki'",
+    "answer": "4 zdania:\n- podrzędne: Gdy pada deszcz\n- współrzędne: siedzę / czytam / słucham",
+    "hint": "Policz czasowniki",
+    "explanation": "pada / siedzę / czytam / słucham"
+  }
+]
