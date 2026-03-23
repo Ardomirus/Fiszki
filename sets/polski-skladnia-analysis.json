@@ -106,6 +106,70 @@
     "answer": "4 zdania:\n- podrzędne: Gdy pada deszcz\n- współrzędne: siedzę / czytam / słucham",
     "hint": "Policz czasowniki",
     "explanation": "pada / siedzę / czytam / słucham"
+  },
+  {
+    "key": "a13",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie:\n\n'Poszedłem tam, gdzie było cicho'",
+    "answer": "Zdanie podrzędne miejsca:\n- nadrzędne: Poszedłem tam\n- podrzędne: gdzie było cicho",
+    "hint": "Zadaj pytanie: dokąd?",
+    "explanation": "Zdanie podrzędne określa miejsce czynności"
+  },
+  {
+    "key": "a14",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie:\n\n'Zrobiłem to, żeby ci pomóc'",
+    "answer": "Zdanie podrzędne celu:\n- nadrzędne: Zrobiłem to\n- podrzędne: żeby ci pomóc",
+    "hint": "Zadaj pytanie: po co?",
+    "explanation": "Zdanie podrzędne wyraża cel czynności"
+  },
+  {
+    "key": "a15",
+    "type": "analysis",
+    "level": 2,
+    "question": "Podziel zdanie:\n\n'Był tak zmęczony, że zasnął od razu'",
+    "answer": "Zdanie podrzędne wynikowe:\n- nadrzędne: Był tak zmęczony\n- podrzędne: że zasnął od razu",
+    "hint": "Zwróć uwagę na 'że'",
+    "explanation": "Druga część wyraża skutek pierwszej"
+  },
+  {
+    "key": "a16",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel zdanie:\n\n'Wiem, że masz rację'",
+    "answer": "Zdanie podrzędne dopełnieniowe:\n- nadrzędne: Wiem\n- podrzędne: że masz rację",
+    "hint": "Zadaj pytanie: co wiem?",
+    "explanation": "Zdanie podrzędne pełni funkcję dopełnienia"
+  },
+  {
+    "key": "a17",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel zdanie:\n\n'Znam człowieka, który tam mieszka'",
+    "answer": "Zdanie podrzędne przydawkowe:\n- nadrzędne: Znam człowieka\n- podrzędne: który tam mieszka",
+    "hint": "Zadaj pytanie: jakiego człowieka?",
+    "explanation": "Zdanie podrzędne określa rzeczownik"
+  },
+  {
+    "key": "a18",
+    "type": "analysis",
+    "level": 3,
+    "question": "Czy tu powinien być przecinek?\n\n'Chciałem wyjść ale nie miałem czasu'",
+    "answer": "Tak — przed 'ale' stawiamy przecinek",
+    "hint": "Spójnik przeciwstawny",
+    "explanation": "Zdania współrzędne przeciwstawne wymagają przecinka"
+  },
+  {
+    "key": "a19",
+    "type": "analysis",
+    "level": 3,
+    "question": "Podziel i nazwij:\n\n'Gdy skończyłem lekcje, posprzątałem pokój, a potem odpocząłem'",
+    "answer": "3 zdania:\n- podrzędne: Gdy skończyłem lekcje\n- współrzędne: posprzątałem pokój / odpocząłem",
+    "hint": "Policz orzeczenia",
+    "explanation": "skończyłem / posprzątałem / odpocząłem"
   }
+
   
 ]
